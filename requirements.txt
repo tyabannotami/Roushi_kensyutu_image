@@ -5,3 +5,5 @@ opencv-python
 sahi
 torch
 ultralytics
+PIL
+cv2
