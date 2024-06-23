@@ -36,7 +36,7 @@ def run_yolov8(image):
     
     return result_image
 
-st.title('大熊老師探し')
+st.title('大熊老師探し(β版)')
 #st.header('This is a header')
 st.subheader('画像を選択してください。')
 st.text('大熊老師が検出された場合、枠が表示されます。')
